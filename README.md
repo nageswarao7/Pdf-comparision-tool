@@ -17,8 +17,7 @@ A web application that allows users to upload two PDF documents and visualize th
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/pdf-comparison-tool.git
-cd pdf-comparison-tool
+git clone https://github.com/nageswarao7/Pdf-comparision-tool.git
 ```
 
 2. Install the required dependencies:
@@ -71,6 +70,3 @@ streamlit run app.py
 - **Batch Processing**: Add support for comparing multiple documents at once
 - **Export Functionality**: Allow exporting comparison results as PDF or HTML
 
-## License
-
-[MIT License](LICENSE)
